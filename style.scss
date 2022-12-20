@@ -1,0 +1,12 @@
+$color : red;
+$fontSize : 12px;
+
+div{
+    span{
+        color:$color;
+    }
+
+    p{
+        font-size:$fontSize;
+    }
+}
